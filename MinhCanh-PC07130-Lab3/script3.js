@@ -20,5 +20,4 @@ class Entity {
   
   java.greet();
   cpp.greet();
-  
     
