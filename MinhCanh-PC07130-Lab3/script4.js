@@ -4,7 +4,7 @@ const convertTemperature = (temperature, unit) => {
     } else if (unit.toUpperCase() === "F") {
       return (temperature - 32) * 5/9;
     } else {
-      return "Đơn vị nhiệt độ không hỗ trợ";
+      return "Khoong hoo trow nhietj ddoo";
     }
   };
   
